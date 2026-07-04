@@ -22,3 +22,9 @@
 - [Emergence of Black Hole](https://medium.com/@yorebod969/emergece-of-black-hole-8c2e907967ea)
 - [Master Trees for Coding Interviews: The Ultimate Binary Tree Guide (2026 Edition)](https://medium.com/@yorebod969/master-trees-for-coding-interviews-the-ultimate-binary-tree-guide-2026-edition-5f98dd75dfae)
 *(more to come...)*
+
+
+## Links
+
+- [My Portfolio](https://u/JashanjitKaurBachhal/)
+- [My Leetcode Profile](https://leetcode.com/u/JashanjitKaurBachhal/)
