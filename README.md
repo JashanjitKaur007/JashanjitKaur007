@@ -12,6 +12,8 @@
 
 - [My Portfolio](https://u/JashanjitKaurBachhal/)
 - [My Leetcode Profile](https://leetcode.com/u/JashanjitKaurBachhal/)
+- [MY Linkedin](https://u/JashanjitKaurBachhal)
+- [My CP Profile](https:://u/JashanjitKaurBachhal/) Newbie :^\
 
 ## Awards & Certifications
 
